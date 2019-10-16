@@ -1,4 +1,4 @@
-//C program to find sum and average of three numbers - by arjun raghunandanan
+//C program to find sum and average of three numbers
 //https://github.com/ARJUNRAGHUNANDANAN/C-Programs
 
 #include<stdio.h>
